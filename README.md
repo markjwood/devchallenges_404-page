@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/71726788/137401494-ea594da8-1d2f-435c-a3b9-a8fd8a5b9901.png)
 
 This project was a good refresher. While I am fairly comfortable with HTML and CSS, this was a good reminder that I need to practice those skills daily, as I found some aspects of this project to be more challenging than I expected. As I worked through it, though, things started to come back to me.
 
